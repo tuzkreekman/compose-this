@@ -23,3 +23,5 @@
 
 - plotting_raw_features.py - Plots for 2.1.3 with Mel + STFT but no normalization
 
+- cnn-lstm-MFCInput.ipynb - Code for running cnn-lstm with an input of MFC and for the entire generalized composer dataset
+
