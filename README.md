@@ -9,9 +9,12 @@
 - piano-composer-detection.ipynb - uses parts of STFT + Mel Spectrum image features to train CNN-LSTM ("Piano Composer Problem")
 
 - gianluca.py - has Keras implementation of network from [5]
-   - Based on the Neural network architecture from: ``` Gianluca Micchi. A neural network for composer classification. 
+   - Based on the Neural network architecture from: 
+   
+   ``` Gianluca Micchi. A neural network for composer classification. 
     International Society for Music Information Retrieval Conference (ISMIR 2018), 2018, Paris, France. <hal-01879276>
-``` and Keras code from https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+   ``` and Keras code from https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
 
 - data_generator.py - SOURCE: https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly 
 
